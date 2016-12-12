@@ -1,14 +1,14 @@
 //
-//  SwipeTweetTweetUITests.swift
-//  SwipeTweetTweetUITests
+//  swipeTweetTweetUITests.swift
+//  swipeTweetTweetUITests
 //
-//  Created by 김재하 on 2016. 12. 11..
+//  Created by 김재하 on 2016. 12. 12..
 //  Copyright © 2016년 Pabix. All rights reserved.
 //
 
 import XCTest
 
-class SwipeTweetTweetUITests: XCTestCase {
+class swipeTweetTweetUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()

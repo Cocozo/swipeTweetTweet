@@ -7,62 +7,67 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7A0BC0F51DFD729F008C28DB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A0BC0F41DFD729F008C28DB /* AppDelegate.swift */; };
-		7A0BC0F71DFD729F008C28DB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A0BC0F61DFD729F008C28DB /* ViewController.swift */; };
-		7A0BC0F91DFD729F008C28DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7A0BC0F81DFD729F008C28DB /* Assets.xcassets */; };
-		7A0BC0FC1DFD729F008C28DB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A0BC0FA1DFD729F008C28DB /* Main.storyboard */; };
-		7A0BC1071DFD72A0008C28DB /* SwipeTweetTweetTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A0BC1061DFD72A0008C28DB /* SwipeTweetTweetTests.swift */; };
-		7A0BC1121DFD72A0008C28DB /* SwipeTweetTweetUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A0BC1111DFD72A0008C28DB /* SwipeTweetTweetUITests.swift */; };
+		7A0BC12C1DFE2572008C28DB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A0BC12B1DFE2572008C28DB /* AppDelegate.swift */; };
+		7A0BC12E1DFE2572008C28DB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A0BC12D1DFE2572008C28DB /* ViewController.swift */; };
+		7A0BC1301DFE2573008C28DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7A0BC12F1DFE2572008C28DB /* Assets.xcassets */; };
+		7A0BC1331DFE2573008C28DB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A0BC1311DFE2573008C28DB /* Main.storyboard */; };
+		7A0BC13E1DFE2573008C28DB /* swipeTweetTweetTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A0BC13D1DFE2573008C28DB /* swipeTweetTweetTests.swift */; };
+		7A0BC1491DFE2573008C28DB /* swipeTweetTweetUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A0BC1481DFE2573008C28DB /* swipeTweetTweetUITests.swift */; };
+		84F9552B87B3C982BC0FBD48 /* Pods_swipeTweetTweet.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 24E92D57F4698C0C26B2A322 /* Pods_swipeTweetTweet.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		7A0BC1031DFD72A0008C28DB /* PBXContainerItemProxy */ = {
+		7A0BC13A1DFE2573008C28DB /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 7A0BC0E91DFD729F008C28DB /* Project object */;
+			containerPortal = 7A0BC1201DFE2572008C28DB /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 7A0BC0F01DFD729F008C28DB;
-			remoteInfo = SwipeTweetTweet;
+			remoteGlobalIDString = 7A0BC1271DFE2572008C28DB;
+			remoteInfo = swipeTweetTweet;
 		};
-		7A0BC10E1DFD72A0008C28DB /* PBXContainerItemProxy */ = {
+		7A0BC1451DFE2573008C28DB /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 7A0BC0E91DFD729F008C28DB /* Project object */;
+			containerPortal = 7A0BC1201DFE2572008C28DB /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 7A0BC0F01DFD729F008C28DB;
-			remoteInfo = SwipeTweetTweet;
+			remoteGlobalIDString = 7A0BC1271DFE2572008C28DB;
+			remoteInfo = swipeTweetTweet;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		7A0BC0F11DFD729F008C28DB /* SwipeTweetTweet.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwipeTweetTweet.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		7A0BC0F41DFD729F008C28DB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		7A0BC0F61DFD729F008C28DB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		7A0BC0F81DFD729F008C28DB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		7A0BC0FB1DFD729F008C28DB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		7A0BC0FD1DFD729F008C28DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		7A0BC1021DFD72A0008C28DB /* SwipeTweetTweetTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwipeTweetTweetTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		7A0BC1061DFD72A0008C28DB /* SwipeTweetTweetTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipeTweetTweetTests.swift; sourceTree = "<group>"; };
-		7A0BC1081DFD72A0008C28DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		7A0BC10D1DFD72A0008C28DB /* SwipeTweetTweetUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwipeTweetTweetUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		7A0BC1111DFD72A0008C28DB /* SwipeTweetTweetUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipeTweetTweetUITests.swift; sourceTree = "<group>"; };
-		7A0BC1131DFD72A0008C28DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		24E92D57F4698C0C26B2A322 /* Pods_swipeTweetTweet.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_swipeTweetTweet.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7A0BC1281DFE2572008C28DB /* swipeTweetTweet.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = swipeTweetTweet.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7A0BC12B1DFE2572008C28DB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		7A0BC12D1DFE2572008C28DB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		7A0BC12F1DFE2572008C28DB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		7A0BC1321DFE2573008C28DB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		7A0BC1341DFE2573008C28DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7A0BC1391DFE2573008C28DB /* swipeTweetTweetTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = swipeTweetTweetTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		7A0BC13D1DFE2573008C28DB /* swipeTweetTweetTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swipeTweetTweetTests.swift; sourceTree = "<group>"; };
+		7A0BC13F1DFE2573008C28DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7A0BC1441DFE2573008C28DB /* swipeTweetTweetUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = swipeTweetTweetUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		7A0BC1481DFE2573008C28DB /* swipeTweetTweetUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swipeTweetTweetUITests.swift; sourceTree = "<group>"; };
+		7A0BC14A1DFE2573008C28DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A468DC469F99A1A8AFD01F27 /* Pods-swipeTweetTweet.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-swipeTweetTweet.release.xcconfig"; path = "Pods/Target Support Files/Pods-swipeTweetTweet/Pods-swipeTweetTweet.release.xcconfig"; sourceTree = "<group>"; };
+		EC7E6D091008F9978149FB7E /* Pods-swipeTweetTweet.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-swipeTweetTweet.debug.xcconfig"; path = "Pods/Target Support Files/Pods-swipeTweetTweet/Pods-swipeTweetTweet.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		7A0BC0EE1DFD729F008C28DB /* Frameworks */ = {
+		7A0BC1251DFE2572008C28DB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				84F9552B87B3C982BC0FBD48 /* Pods_swipeTweetTweet.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7A0BC1361DFE2573008C28DB /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7A0BC0FF1DFD72A0008C28DB /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		7A0BC10A1DFD72A0008C28DB /* Frameworks */ = {
+		7A0BC1411DFE2573008C28DB /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -72,136 +77,158 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		7A0BC0E81DFD729F008C28DB = {
+		3CCA7939C80084FF502533B5 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				7A0BC0F31DFD729F008C28DB /* SwipeTweetTweet */,
-				7A0BC1051DFD72A0008C28DB /* SwipeTweetTweetTests */,
-				7A0BC1101DFD72A0008C28DB /* SwipeTweetTweetUITests */,
-				7A0BC0F21DFD729F008C28DB /* Products */,
+				EC7E6D091008F9978149FB7E /* Pods-swipeTweetTweet.debug.xcconfig */,
+				A468DC469F99A1A8AFD01F27 /* Pods-swipeTweetTweet.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		7A0BC11F1DFE2572008C28DB = {
+			isa = PBXGroup;
+			children = (
+				7A0BC12A1DFE2572008C28DB /* swipeTweetTweet */,
+				7A0BC13C1DFE2573008C28DB /* swipeTweetTweetTests */,
+				7A0BC1471DFE2573008C28DB /* swipeTweetTweetUITests */,
+				7A0BC1291DFE2572008C28DB /* Products */,
+				3CCA7939C80084FF502533B5 /* Pods */,
+				7E5A45ECA84E7C6902D9B55F /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
-		7A0BC0F21DFD729F008C28DB /* Products */ = {
+		7A0BC1291DFE2572008C28DB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7A0BC0F11DFD729F008C28DB /* SwipeTweetTweet.app */,
-				7A0BC1021DFD72A0008C28DB /* SwipeTweetTweetTests.xctest */,
-				7A0BC10D1DFD72A0008C28DB /* SwipeTweetTweetUITests.xctest */,
+				7A0BC1281DFE2572008C28DB /* swipeTweetTweet.app */,
+				7A0BC1391DFE2573008C28DB /* swipeTweetTweetTests.xctest */,
+				7A0BC1441DFE2573008C28DB /* swipeTweetTweetUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		7A0BC0F31DFD729F008C28DB /* SwipeTweetTweet */ = {
+		7A0BC12A1DFE2572008C28DB /* swipeTweetTweet */ = {
 			isa = PBXGroup;
 			children = (
-				7A0BC0F41DFD729F008C28DB /* AppDelegate.swift */,
-				7A0BC0F61DFD729F008C28DB /* ViewController.swift */,
-				7A0BC0F81DFD729F008C28DB /* Assets.xcassets */,
-				7A0BC0FA1DFD729F008C28DB /* Main.storyboard */,
-				7A0BC0FD1DFD729F008C28DB /* Info.plist */,
+				7A0BC12B1DFE2572008C28DB /* AppDelegate.swift */,
+				7A0BC12D1DFE2572008C28DB /* ViewController.swift */,
+				7A0BC12F1DFE2572008C28DB /* Assets.xcassets */,
+				7A0BC1311DFE2573008C28DB /* Main.storyboard */,
+				7A0BC1341DFE2573008C28DB /* Info.plist */,
 			);
-			path = SwipeTweetTweet;
+			path = swipeTweetTweet;
 			sourceTree = "<group>";
 		};
-		7A0BC1051DFD72A0008C28DB /* SwipeTweetTweetTests */ = {
+		7A0BC13C1DFE2573008C28DB /* swipeTweetTweetTests */ = {
 			isa = PBXGroup;
 			children = (
-				7A0BC1061DFD72A0008C28DB /* SwipeTweetTweetTests.swift */,
-				7A0BC1081DFD72A0008C28DB /* Info.plist */,
+				7A0BC13D1DFE2573008C28DB /* swipeTweetTweetTests.swift */,
+				7A0BC13F1DFE2573008C28DB /* Info.plist */,
 			);
-			path = SwipeTweetTweetTests;
+			path = swipeTweetTweetTests;
 			sourceTree = "<group>";
 		};
-		7A0BC1101DFD72A0008C28DB /* SwipeTweetTweetUITests */ = {
+		7A0BC1471DFE2573008C28DB /* swipeTweetTweetUITests */ = {
 			isa = PBXGroup;
 			children = (
-				7A0BC1111DFD72A0008C28DB /* SwipeTweetTweetUITests.swift */,
-				7A0BC1131DFD72A0008C28DB /* Info.plist */,
+				7A0BC1481DFE2573008C28DB /* swipeTweetTweetUITests.swift */,
+				7A0BC14A1DFE2573008C28DB /* Info.plist */,
 			);
-			path = SwipeTweetTweetUITests;
+			path = swipeTweetTweetUITests;
+			sourceTree = "<group>";
+		};
+		7E5A45ECA84E7C6902D9B55F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				24E92D57F4698C0C26B2A322 /* Pods_swipeTweetTweet.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		7A0BC0F01DFD729F008C28DB /* SwipeTweetTweet */ = {
+		7A0BC1271DFE2572008C28DB /* swipeTweetTweet */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7A0BC1161DFD72A0008C28DB /* Build configuration list for PBXNativeTarget "SwipeTweetTweet" */;
+			buildConfigurationList = 7A0BC14D1DFE2573008C28DB /* Build configuration list for PBXNativeTarget "swipeTweetTweet" */;
 			buildPhases = (
-				7A0BC0ED1DFD729F008C28DB /* Sources */,
-				7A0BC0EE1DFD729F008C28DB /* Frameworks */,
-				7A0BC0EF1DFD729F008C28DB /* Resources */,
+				996660126C7588A1F9405286 /* [CP] Check Pods Manifest.lock */,
+				7A0BC1241DFE2572008C28DB /* Sources */,
+				7A0BC1251DFE2572008C28DB /* Frameworks */,
+				7A0BC1261DFE2572008C28DB /* Resources */,
+				8E6334F8F7CEC0A6AEBD2982 /* [CP] Embed Pods Frameworks */,
+				9626E30E616539877823757A /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = SwipeTweetTweet;
-			productName = SwipeTweetTweet;
-			productReference = 7A0BC0F11DFD729F008C28DB /* SwipeTweetTweet.app */;
+			name = swipeTweetTweet;
+			productName = swipeTweetTweet;
+			productReference = 7A0BC1281DFE2572008C28DB /* swipeTweetTweet.app */;
 			productType = "com.apple.product-type.application";
 		};
-		7A0BC1011DFD72A0008C28DB /* SwipeTweetTweetTests */ = {
+		7A0BC1381DFE2573008C28DB /* swipeTweetTweetTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7A0BC1191DFD72A0008C28DB /* Build configuration list for PBXNativeTarget "SwipeTweetTweetTests" */;
+			buildConfigurationList = 7A0BC1501DFE2573008C28DB /* Build configuration list for PBXNativeTarget "swipeTweetTweetTests" */;
 			buildPhases = (
-				7A0BC0FE1DFD72A0008C28DB /* Sources */,
-				7A0BC0FF1DFD72A0008C28DB /* Frameworks */,
-				7A0BC1001DFD72A0008C28DB /* Resources */,
+				7A0BC1351DFE2573008C28DB /* Sources */,
+				7A0BC1361DFE2573008C28DB /* Frameworks */,
+				7A0BC1371DFE2573008C28DB /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				7A0BC1041DFD72A0008C28DB /* PBXTargetDependency */,
+				7A0BC13B1DFE2573008C28DB /* PBXTargetDependency */,
 			);
-			name = SwipeTweetTweetTests;
-			productName = SwipeTweetTweetTests;
-			productReference = 7A0BC1021DFD72A0008C28DB /* SwipeTweetTweetTests.xctest */;
+			name = swipeTweetTweetTests;
+			productName = swipeTweetTweetTests;
+			productReference = 7A0BC1391DFE2573008C28DB /* swipeTweetTweetTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		7A0BC10C1DFD72A0008C28DB /* SwipeTweetTweetUITests */ = {
+		7A0BC1431DFE2573008C28DB /* swipeTweetTweetUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7A0BC11C1DFD72A0008C28DB /* Build configuration list for PBXNativeTarget "SwipeTweetTweetUITests" */;
+			buildConfigurationList = 7A0BC1531DFE2573008C28DB /* Build configuration list for PBXNativeTarget "swipeTweetTweetUITests" */;
 			buildPhases = (
-				7A0BC1091DFD72A0008C28DB /* Sources */,
-				7A0BC10A1DFD72A0008C28DB /* Frameworks */,
-				7A0BC10B1DFD72A0008C28DB /* Resources */,
+				7A0BC1401DFE2573008C28DB /* Sources */,
+				7A0BC1411DFE2573008C28DB /* Frameworks */,
+				7A0BC1421DFE2573008C28DB /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				7A0BC10F1DFD72A0008C28DB /* PBXTargetDependency */,
+				7A0BC1461DFE2573008C28DB /* PBXTargetDependency */,
 			);
-			name = SwipeTweetTweetUITests;
-			productName = SwipeTweetTweetUITests;
-			productReference = 7A0BC10D1DFD72A0008C28DB /* SwipeTweetTweetUITests.xctest */;
+			name = swipeTweetTweetUITests;
+			productName = swipeTweetTweetUITests;
+			productReference = 7A0BC1441DFE2573008C28DB /* swipeTweetTweetUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		7A0BC0E91DFD729F008C28DB /* Project object */ = {
+		7A0BC1201DFE2572008C28DB /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0730;
 				ORGANIZATIONNAME = Pabix;
 				TargetAttributes = {
-					7A0BC0F01DFD729F008C28DB = {
+					7A0BC1271DFE2572008C28DB = {
 						CreatedOnToolsVersion = 7.3;
 					};
-					7A0BC1011DFD72A0008C28DB = {
+					7A0BC1381DFE2573008C28DB = {
 						CreatedOnToolsVersion = 7.3;
-						TestTargetID = 7A0BC0F01DFD729F008C28DB;
+						TestTargetID = 7A0BC1271DFE2572008C28DB;
 					};
-					7A0BC10C1DFD72A0008C28DB = {
+					7A0BC1431DFE2573008C28DB = {
 						CreatedOnToolsVersion = 7.3;
-						TestTargetID = 7A0BC0F01DFD729F008C28DB;
+						TestTargetID = 7A0BC1271DFE2572008C28DB;
 					};
 				};
 			};
-			buildConfigurationList = 7A0BC0EC1DFD729F008C28DB /* Build configuration list for PBXProject "SwipeTweetTweet" */;
+			buildConfigurationList = 7A0BC1231DFE2572008C28DB /* Build configuration list for PBXProject "swipeTweetTweet" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -209,36 +236,36 @@
 				en,
 				Base,
 			);
-			mainGroup = 7A0BC0E81DFD729F008C28DB;
-			productRefGroup = 7A0BC0F21DFD729F008C28DB /* Products */;
+			mainGroup = 7A0BC11F1DFE2572008C28DB;
+			productRefGroup = 7A0BC1291DFE2572008C28DB /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7A0BC0F01DFD729F008C28DB /* SwipeTweetTweet */,
-				7A0BC1011DFD72A0008C28DB /* SwipeTweetTweetTests */,
-				7A0BC10C1DFD72A0008C28DB /* SwipeTweetTweetUITests */,
+				7A0BC1271DFE2572008C28DB /* swipeTweetTweet */,
+				7A0BC1381DFE2573008C28DB /* swipeTweetTweetTests */,
+				7A0BC1431DFE2573008C28DB /* swipeTweetTweetUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		7A0BC0EF1DFD729F008C28DB /* Resources */ = {
+		7A0BC1261DFE2572008C28DB /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7A0BC0F91DFD729F008C28DB /* Assets.xcassets in Resources */,
-				7A0BC0FC1DFD729F008C28DB /* Main.storyboard in Resources */,
+				7A0BC1301DFE2573008C28DB /* Assets.xcassets in Resources */,
+				7A0BC1331DFE2573008C28DB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7A0BC1001DFD72A0008C28DB /* Resources */ = {
+		7A0BC1371DFE2573008C28DB /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7A0BC10B1DFD72A0008C28DB /* Resources */ = {
+		7A0BC1421DFE2573008C28DB /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -247,52 +274,100 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		8E6334F8F7CEC0A6AEBD2982 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-swipeTweetTweet/Pods-swipeTweetTweet-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		9626E30E616539877823757A /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-swipeTweetTweet/Pods-swipeTweetTweet-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		996660126C7588A1F9405286 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
-		7A0BC0ED1DFD729F008C28DB /* Sources */ = {
+		7A0BC1241DFE2572008C28DB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7A0BC0F71DFD729F008C28DB /* ViewController.swift in Sources */,
-				7A0BC0F51DFD729F008C28DB /* AppDelegate.swift in Sources */,
+				7A0BC12E1DFE2572008C28DB /* ViewController.swift in Sources */,
+				7A0BC12C1DFE2572008C28DB /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7A0BC0FE1DFD72A0008C28DB /* Sources */ = {
+		7A0BC1351DFE2573008C28DB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7A0BC1071DFD72A0008C28DB /* SwipeTweetTweetTests.swift in Sources */,
+				7A0BC13E1DFE2573008C28DB /* swipeTweetTweetTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7A0BC1091DFD72A0008C28DB /* Sources */ = {
+		7A0BC1401DFE2573008C28DB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7A0BC1121DFD72A0008C28DB /* SwipeTweetTweetUITests.swift in Sources */,
+				7A0BC1491DFE2573008C28DB /* swipeTweetTweetUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		7A0BC1041DFD72A0008C28DB /* PBXTargetDependency */ = {
+		7A0BC13B1DFE2573008C28DB /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 7A0BC0F01DFD729F008C28DB /* SwipeTweetTweet */;
-			targetProxy = 7A0BC1031DFD72A0008C28DB /* PBXContainerItemProxy */;
+			target = 7A0BC1271DFE2572008C28DB /* swipeTweetTweet */;
+			targetProxy = 7A0BC13A1DFE2573008C28DB /* PBXContainerItemProxy */;
 		};
-		7A0BC10F1DFD72A0008C28DB /* PBXTargetDependency */ = {
+		7A0BC1461DFE2573008C28DB /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 7A0BC0F01DFD729F008C28DB /* SwipeTweetTweet */;
-			targetProxy = 7A0BC10E1DFD72A0008C28DB /* PBXContainerItemProxy */;
+			target = 7A0BC1271DFE2572008C28DB /* swipeTweetTweet */;
+			targetProxy = 7A0BC1451DFE2573008C28DB /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		7A0BC0FA1DFD729F008C28DB /* Main.storyboard */ = {
+		7A0BC1311DFE2573008C28DB /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				7A0BC0FB1DFD729F008C28DB /* Base */,
+				7A0BC1321DFE2573008C28DB /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -300,7 +375,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		7A0BC1141DFD72A0008C28DB /* Debug */ = {
+		7A0BC14B1DFE2573008C28DB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -345,7 +420,7 @@
 			};
 			name = Debug;
 		};
-		7A0BC1151DFD72A0008C28DB /* Release */ = {
+		7A0BC14C1DFE2573008C28DB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -382,117 +457,119 @@
 			};
 			name = Release;
 		};
-		7A0BC1171DFD72A0008C28DB /* Debug */ = {
+		7A0BC14E1DFE2573008C28DB /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = EC7E6D091008F9978149FB7E /* Pods-swipeTweetTweet.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				COMBINE_HIDPI_IMAGES = YES;
-				INFOPLIST_FILE = SwipeTweetTweet/Info.plist;
+				INFOPLIST_FILE = swipeTweetTweet/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.Pabix.cozo.SwipeTweetTweet;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Pabix.cozo.swipeTweetTweet;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		7A0BC1181DFD72A0008C28DB /* Release */ = {
+		7A0BC14F1DFE2573008C28DB /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A468DC469F99A1A8AFD01F27 /* Pods-swipeTweetTweet.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				COMBINE_HIDPI_IMAGES = YES;
-				INFOPLIST_FILE = SwipeTweetTweet/Info.plist;
+				INFOPLIST_FILE = swipeTweetTweet/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.Pabix.cozo.SwipeTweetTweet;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Pabix.cozo.swipeTweetTweet;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
 		};
-		7A0BC11A1DFD72A0008C28DB /* Debug */ = {
+		7A0BC1511DFE2573008C28DB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COMBINE_HIDPI_IMAGES = YES;
-				INFOPLIST_FILE = SwipeTweetTweetTests/Info.plist;
+				INFOPLIST_FILE = swipeTweetTweetTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.Pabix.cozo.SwipeTweetTweetTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Pabix.cozo.swipeTweetTweetTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SwipeTweetTweet.app/Contents/MacOS/SwipeTweetTweet";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/swipeTweetTweet.app/Contents/MacOS/swipeTweetTweet";
 			};
 			name = Debug;
 		};
-		7A0BC11B1DFD72A0008C28DB /* Release */ = {
+		7A0BC1521DFE2573008C28DB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COMBINE_HIDPI_IMAGES = YES;
-				INFOPLIST_FILE = SwipeTweetTweetTests/Info.plist;
+				INFOPLIST_FILE = swipeTweetTweetTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.Pabix.cozo.SwipeTweetTweetTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Pabix.cozo.swipeTweetTweetTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SwipeTweetTweet.app/Contents/MacOS/SwipeTweetTweet";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/swipeTweetTweet.app/Contents/MacOS/swipeTweetTweet";
 			};
 			name = Release;
 		};
-		7A0BC11D1DFD72A0008C28DB /* Debug */ = {
+		7A0BC1541DFE2573008C28DB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
-				INFOPLIST_FILE = SwipeTweetTweetUITests/Info.plist;
+				INFOPLIST_FILE = swipeTweetTweetUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.Pabix.cozo.SwipeTweetTweetUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Pabix.cozo.swipeTweetTweetUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_TARGET_NAME = SwipeTweetTweet;
+				TEST_TARGET_NAME = swipeTweetTweet;
 			};
 			name = Debug;
 		};
-		7A0BC11E1DFD72A0008C28DB /* Release */ = {
+		7A0BC1551DFE2573008C28DB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
-				INFOPLIST_FILE = SwipeTweetTweetUITests/Info.plist;
+				INFOPLIST_FILE = swipeTweetTweetUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.Pabix.cozo.SwipeTweetTweetUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Pabix.cozo.swipeTweetTweetUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_TARGET_NAME = SwipeTweetTweet;
+				TEST_TARGET_NAME = swipeTweetTweet;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7A0BC0EC1DFD729F008C28DB /* Build configuration list for PBXProject "SwipeTweetTweet" */ = {
+		7A0BC1231DFE2572008C28DB /* Build configuration list for PBXProject "swipeTweetTweet" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7A0BC1141DFD72A0008C28DB /* Debug */,
-				7A0BC1151DFD72A0008C28DB /* Release */,
+				7A0BC14B1DFE2573008C28DB /* Debug */,
+				7A0BC14C1DFE2573008C28DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7A0BC1161DFD72A0008C28DB /* Build configuration list for PBXNativeTarget "SwipeTweetTweet" */ = {
+		7A0BC14D1DFE2573008C28DB /* Build configuration list for PBXNativeTarget "swipeTweetTweet" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7A0BC1171DFD72A0008C28DB /* Debug */,
-				7A0BC1181DFD72A0008C28DB /* Release */,
+				7A0BC14E1DFE2573008C28DB /* Debug */,
+				7A0BC14F1DFE2573008C28DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		7A0BC1191DFD72A0008C28DB /* Build configuration list for PBXNativeTarget "SwipeTweetTweetTests" */ = {
+		7A0BC1501DFE2573008C28DB /* Build configuration list for PBXNativeTarget "swipeTweetTweetTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7A0BC11A1DFD72A0008C28DB /* Debug */,
-				7A0BC11B1DFD72A0008C28DB /* Release */,
+				7A0BC1511DFE2573008C28DB /* Debug */,
+				7A0BC1521DFE2573008C28DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		7A0BC11C1DFD72A0008C28DB /* Build configuration list for PBXNativeTarget "SwipeTweetTweetUITests" */ = {
+		7A0BC1531DFE2573008C28DB /* Build configuration list for PBXNativeTarget "swipeTweetTweetUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7A0BC11D1DFD72A0008C28DB /* Debug */,
-				7A0BC11E1DFD72A0008C28DB /* Release */,
+				7A0BC1541DFE2573008C28DB /* Debug */,
+				7A0BC1551DFE2573008C28DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 7A0BC0E91DFD729F008C28DB /* Project object */;
+	rootObject = 7A0BC1201DFE2572008C28DB /* Project object */;
 }

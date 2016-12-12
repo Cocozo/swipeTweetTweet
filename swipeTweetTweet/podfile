@@ -1,0 +1,6 @@
+platform :osx, '10.11’
+use_frameworks!
+
+target 'swipeTweetTweet' do
+  pod 'SnapKit', '~> 0.22.0'
+end

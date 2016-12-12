@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  SwipeTweetTweet
+//  swipeTweetTweet
 //
-//  Created by 김재하 on 2016. 12. 11..
+//  Created by 김재하 on 2016. 12. 12..
 //  Copyright © 2016년 Pabix. All rights reserved.
 //
 

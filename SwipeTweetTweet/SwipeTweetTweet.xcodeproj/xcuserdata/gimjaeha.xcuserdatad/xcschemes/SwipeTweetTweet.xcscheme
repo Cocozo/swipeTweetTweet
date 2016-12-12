@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7A0BC0F01DFD729F008C28DB"
-               BuildableName = "SwipeTweetTweet.app"
-               BlueprintName = "SwipeTweetTweet"
-               ReferencedContainer = "container:SwipeTweetTweet.xcodeproj">
+               BlueprintIdentifier = "7A0BC1271DFE2572008C28DB"
+               BuildableName = "swipeTweetTweet.app"
+               BlueprintName = "swipeTweetTweet"
+               ReferencedContainer = "container:swipeTweetTweet.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7A0BC1011DFD72A0008C28DB"
-               BuildableName = "SwipeTweetTweetTests.xctest"
-               BlueprintName = "SwipeTweetTweetTests"
-               ReferencedContainer = "container:SwipeTweetTweet.xcodeproj">
+               BlueprintIdentifier = "7A0BC1381DFE2573008C28DB"
+               BuildableName = "swipeTweetTweetTests.xctest"
+               BlueprintName = "swipeTweetTweetTests"
+               ReferencedContainer = "container:swipeTweetTweet.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7A0BC10C1DFD72A0008C28DB"
-               BuildableName = "SwipeTweetTweetUITests.xctest"
-               BlueprintName = "SwipeTweetTweetUITests"
-               ReferencedContainer = "container:SwipeTweetTweet.xcodeproj">
+               BlueprintIdentifier = "7A0BC1431DFE2573008C28DB"
+               BuildableName = "swipeTweetTweetUITests.xctest"
+               BlueprintName = "swipeTweetTweetUITests"
+               ReferencedContainer = "container:swipeTweetTweet.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7A0BC0F01DFD729F008C28DB"
-            BuildableName = "SwipeTweetTweet.app"
-            BlueprintName = "SwipeTweetTweet"
-            ReferencedContainer = "container:SwipeTweetTweet.xcodeproj">
+            BlueprintIdentifier = "7A0BC1271DFE2572008C28DB"
+            BuildableName = "swipeTweetTweet.app"
+            BlueprintName = "swipeTweetTweet"
+            ReferencedContainer = "container:swipeTweetTweet.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7A0BC0F01DFD729F008C28DB"
-            BuildableName = "SwipeTweetTweet.app"
-            BlueprintName = "SwipeTweetTweet"
-            ReferencedContainer = "container:SwipeTweetTweet.xcodeproj">
+            BlueprintIdentifier = "7A0BC1271DFE2572008C28DB"
+            BuildableName = "swipeTweetTweet.app"
+            BlueprintName = "swipeTweetTweet"
+            ReferencedContainer = "container:swipeTweetTweet.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7A0BC0F01DFD729F008C28DB"
-            BuildableName = "SwipeTweetTweet.app"
-            BlueprintName = "SwipeTweetTweet"
-            ReferencedContainer = "container:SwipeTweetTweet.xcodeproj">
+            BlueprintIdentifier = "7A0BC1271DFE2572008C28DB"
+            BuildableName = "swipeTweetTweet.app"
+            BlueprintName = "swipeTweetTweet"
+            ReferencedContainer = "container:swipeTweetTweet.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
