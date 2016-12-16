@@ -2,7 +2,7 @@
 //  swipeTweetTweetTests.swift
 //  swipeTweetTweetTests
 //
-//  Created by 김재하 on 2016. 12. 12..
+//  Created by 김재하 on 2016. 12. 16..
 //  Copyright © 2016년 Pabix. All rights reserved.
 //
 
@@ -28,7 +28,7 @@ class swipeTweetTweetTests: XCTestCase {
     
     func testPerformanceExample() {
         // This is an example of a performance test case.
-        self.measureBlock {
+        self.measure {
             // Put the code you want to measure the time of here.
         }
     }

@@ -2,7 +2,7 @@
 //  swipeTweetTweetUITests.swift
 //  swipeTweetTweetUITests
 //
-//  Created by 김재하 on 2016. 12. 12..
+//  Created by 김재하 on 2016. 12. 16..
 //  Copyright © 2016년 Pabix. All rights reserved.
 //
 

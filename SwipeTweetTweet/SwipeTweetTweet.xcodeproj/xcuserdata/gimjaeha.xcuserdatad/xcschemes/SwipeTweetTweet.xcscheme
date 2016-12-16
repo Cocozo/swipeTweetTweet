@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0730"
+   LastUpgradeVersion = "0820"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7A0BC1271DFE2572008C28DB"
+               BlueprintIdentifier = "7A09624F1E03F5C000A6E8AB"
                BuildableName = "swipeTweetTweet.app"
                BlueprintName = "swipeTweetTweet"
                ReferencedContainer = "container:swipeTweetTweet.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7A0BC1381DFE2573008C28DB"
+               BlueprintIdentifier = "7A0962601E03F5C000A6E8AB"
                BuildableName = "swipeTweetTweetTests.xctest"
                BlueprintName = "swipeTweetTweetTests"
                ReferencedContainer = "container:swipeTweetTweet.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7A0BC1431DFE2573008C28DB"
+               BlueprintIdentifier = "7A09626B1E03F5C000A6E8AB"
                BuildableName = "swipeTweetTweetUITests.xctest"
                BlueprintName = "swipeTweetTweetUITests"
                ReferencedContainer = "container:swipeTweetTweet.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7A0BC1271DFE2572008C28DB"
+            BlueprintIdentifier = "7A09624F1E03F5C000A6E8AB"
             BuildableName = "swipeTweetTweet.app"
             BlueprintName = "swipeTweetTweet"
             ReferencedContainer = "container:swipeTweetTweet.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7A0BC1271DFE2572008C28DB"
+            BlueprintIdentifier = "7A09624F1E03F5C000A6E8AB"
             BuildableName = "swipeTweetTweet.app"
             BlueprintName = "swipeTweetTweet"
             ReferencedContainer = "container:swipeTweetTweet.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7A0BC1271DFE2572008C28DB"
+            BlueprintIdentifier = "7A09624F1E03F5C000A6E8AB"
             BuildableName = "swipeTweetTweet.app"
             BlueprintName = "swipeTweetTweet"
             ReferencedContainer = "container:swipeTweetTweet.xcodeproj">
